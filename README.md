@@ -99,7 +99,9 @@ acl url1 dstdomain -i 192.168.1.10
 
 * Cambiar por su IP ejemplo 192.168.1.230
 
-* Resultado acl url1 dstdomain -i 192.168.1.230
+* Resultado:
+
+acl url1 dstdomain -i 192.168.1.230
 
 * PONER PUERTOS A USAR:
 
